@@ -229,7 +229,11 @@ header {
     margin-top: 0px;
 }
 
-#table-data-1x4,
+.bold{
+    font-weight: bold;
+}
+
+/*#table-data-1x4,
 #table-data-2x2,
 #table-data-3x2,
 #table-data-4x4,
@@ -240,7 +244,7 @@ header {
 #table-data-4x5,
 #table-data-5x3 {
     font-weight: bold;
-}
+}*/
 
 /*Weather*/
 .weather-container {
